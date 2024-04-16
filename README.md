@@ -1,2 +1,2 @@
 # SuloMarek.github.io
-My personal site
+Zadanie z EMAR
